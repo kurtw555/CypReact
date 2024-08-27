@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CypReact:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CypReact_jar</output-path>
+    <root id="archive" name="CypReact.jar" />
+  </artifact>
+</component>

@@ -31,7 +31,32 @@
 		  <groupId>net.idea</groupId>
 		  <artifactId>modbcum-e</artifactId>
 	  		<version>1.0.10-SNAPSHOT</version>
-  	</dependency>
+  	  </dependency>
+	  <dependency>
+		  <groupId>ambit</groupId>
+		  <artifactId>ambit2-smarts</artifactId>
+		  <!--	<version>${project.version}</version> -->
+		  <version>1.0</version>
+		  <scope>system</scope>
+		  <systemPath>${project.basedir}/lib/ambit2-smarts.jar</systemPath>
+	  </dependency>
+	  <dependency>
+		  <groupId>ambit</groupId>
+		  <artifactId>ambit2-some</artifactId>
+		  <!--	<version>${project.version}</version> -->
+		  <version>1.0</version>
+		  <scope>system</scope>
+		  <systemPath>${project.basedir}/lib/ambit2-some.jar</systemPath>
+	  </dependency>
+	  <dependency>
+		  <groupId>org.openscience.cdk</groupId>
+		  <artifactId>cdk-legacy</artifactId>
+		  <!--	<version>${project.version}</version> -->
+		  <version>1.0</version>
+		  <scope>system</scope>
+		  <systemPath>${project.basedir}/lib/cdk-legacy.jar</systemPath>
+	  </dependency>
+<!--
 	<dependency>
 		<groupId>ambit</groupId>
 		<artifactId>ambit2-smarts</artifactId>
@@ -42,6 +67,7 @@
 		  <artifactId>ambit2-some</artifactId>
 		  <version>4.1.0-SNAPSHOT</version>
 	  </dependency>
+-->
   	<dependency>
   		<groupId>org.openscience.cdk</groupId>
   		<artifactId>cdk-bundle</artifactId>
