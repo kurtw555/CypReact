@@ -1,0 +1,74 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cypreact:jar">
+    <output-path>$PROJECT_DIR$/CypReact/out/artifacts/cypreact_jar</output-path>
+    <root id="archive" name="cypreact.jar">
+      <element id="module-output" name="cypreact" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/netlib-java/netlib-java/1.1/netlib-java-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/idea/modbcum-e/1.0.10-SNAPSHOT/modbcum-e-1.0.10-20210820.084719-16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/CypReact/lib/ambit2-smarts.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-isomorphism/2.10-SNAPSHOT/cdk-isomorphism-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/jniloader/1.1/jniloader-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-standard/2.10-SNAPSHOT/cdk-standard-2.10-20240828.162409-51.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/CypReact/lib/ambit2-some.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/vecmath/vecmath/1.5.2/vecmath-1.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-atomtype/2.10-SNAPSHOT/cdk-atomtype-2.10-20240828.162409-51.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-fragment/2.10-SNAPSHOT/cdk-fragment-2.10-20240828.162409-49.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/uk/ac/ebi/beam/beam-func/1.3.5/beam-func-1.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-core/2.10-SNAPSHOT/cdk-core-2.10-20240828.162409-51.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-smarts/2.10-SNAPSHOT/cdk-smarts-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/native_ref-java/1.1/native_ref-java-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-valencycheck/2.10-SNAPSHOT/cdk-valencycheck-2.10-20240828.162409-51.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jgrapht/jgrapht/0.6.0/jgrapht-0.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-hash/2.10-SNAPSHOT/cdk-hash-2.10-20240828.162409-49.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-extra/2.10-SNAPSHOT/cdk-extra-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/biotransformer/biotransformer-apis/1.0.0/biotransformer-apis-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/nz/ac/waikato/cms/weka/thirdparty/java-cup-11b-runtime/2015.03.26/java-cup-11b-runtime-2015.03.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-reaction/2.10-SNAPSHOT/cdk-reaction-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-dict/2.10-SNAPSHOT/cdk-dict-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/nz/ac/waikato/cms/weka/thirdparty/java-cup-11b/2015.03.26/java-cup-11b-2015.03.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-charges/2.10-SNAPSHOT/cdk-charges-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/gov/nist/math/jama/1.0.3/jama-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/matrix-toolkits-java/mtj/1.0.4/mtj-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-ioformats/2.10-SNAPSHOT/cdk-ioformats-2.10-20240828.162409-51.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-qsaratomic/2.10-SNAPSHOT/cdk-qsaratomic-2.10-20240828.162409-49.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-smiles/2.10-SNAPSHOT/cdk-smiles-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/nz/ac/waikato/cms/weka/thirdparty/bounce/0.18/bounce-0.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/nz/ac/waikato/cms/weka/weka-stable/3.8.1/weka-stable-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/xom/xom/1.3.9/xom-1.3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-io/2.10-SNAPSHOT/cdk-io-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-fingerprint/2.10-SNAPSHOT/cdk-fingerprint-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-forcefield/2.10-SNAPSHOT/cdk-forcefield-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/native_system-java/1.1/native_system-java-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/gilleain/signatures/signatures/1.1/signatures-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-data/2.10-SNAPSHOT/cdk-data-2.10-20240828.162409-51.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-bundle/2.10-SNAPSHOT/cdk-bundle-2.10-20240828.162409-49.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-qsar/2.10-SNAPSHOT/cdk-qsar-2.10-20240828.162409-49.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-interfaces/2.10-SNAPSHOT/cdk-interfaces-2.10-20240828.162409-51.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-formula/2.10-SNAPSHOT/cdk-formula-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-qsarmolecular/2.10-SNAPSHOT/cdk-qsarmolecular-2.10-20240828.162409-49.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/uk/ac/ebi/beam/beam-core/1.3.5/beam-core-1.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-signature/2.10-SNAPSHOT/cdk-signature-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-ctab/2.10-SNAPSHOT/cdk-ctab-2.10-20240828.162409-50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openscience/cdk/cdk-legacy/2.10-SNAPSHOT/cdk-legacy-2.10-20240828.162409-49.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1/core-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
