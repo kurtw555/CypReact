@@ -131,6 +131,7 @@
 			<url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
 		</repository>
 	</repositories>
+<!--
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
@@ -140,4 +141,5 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+-->
 </project>
