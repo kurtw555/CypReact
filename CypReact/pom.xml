@@ -10,12 +10,13 @@
 		<maven.compiler.source>${jdk.version}</maven.compiler.source>
 		<maven.compiler.target>${jdk.version}</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<cdk.version>2.10-SNAPSHOT</cdk.version>
 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>4.13.2</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
@@ -72,27 +73,27 @@
 		<dependency>
 			<groupId>org.openscience.cdk</groupId>
 			<artifactId>cdk-bundle</artifactId>
-			<version>2.10-SNAPSHOT</version>
+			<version>${cdk.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.openscience.cdk</groupId>
 			<artifactId>cdk-legacy</artifactId>
-			<version>2.10-SNAPSHOT</version>
+			<version>${cdk.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.openscience.cdk</groupId>
 			<artifactId>cdk-qsar</artifactId>
-			<version>2.10-SNAPSHOT</version>
+			<version>${cdk.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.openscience.cdk</groupId>
 			<artifactId>cdk-qsarmolecular</artifactId>
-			<version>2.10-SNAPSHOT</version>
+			<version>${cdk.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.openscience.cdk</groupId>
 			<artifactId>cdk-qsaratomic</artifactId>
-			<version>2.10-SNAPSHOT</version>
+			<version>${cdk.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>jgrapht</groupId>
@@ -108,8 +109,18 @@
 		<dependency>
 			<groupId>biotransformer</groupId>
 			<artifactId>biotransformer-apis</artifactId>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/biotransformer-apis.jar</systemPath>
 			<version>1.0.0</version>
 		</dependency>
+
+		<!--
+            <dependency>
+                <groupId>biotransformer</groupId>
+                <artifactId>biotransformer-apis</artifactId>
+                <version>1.0.0</version>
+            </dependency>
+        -->
 		<dependency>
 			<groupId>nz.ac.waikato.cms.weka</groupId>
 			<artifactId>weka-stable</artifactId>
