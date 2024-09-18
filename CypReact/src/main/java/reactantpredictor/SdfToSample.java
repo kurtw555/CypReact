@@ -24,6 +24,7 @@ import org.openscience.cdk.interfaces.IAtomContainerSet;
 import org.openscience.cdk.interfaces.IChemObjectBuilder;
 import org.openscience.cdk.io.iterator.IteratingSDFReader;
 import org.openscience.cdk.io.listener.PropertiesListener;
+//import org.openscience.cdk.layout.StructureDiagramGenerator;
 import org.openscience.cdk.layout.StructureDiagramGenerator;
 import org.openscience.cdk.silent.SilentChemObjectBuilder;
 import org.openscience.cdk.smiles.SmilesParser;

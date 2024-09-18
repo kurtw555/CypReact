@@ -34,6 +34,8 @@ import org.openscience.cdk.exception.NoSuchAtomTypeException;
 import org.openscience.cdk.geometry.surface.NumericalSurface;
 import org.openscience.cdk.graph.Cycles;
 import org.openscience.cdk.graph.PathTools;
+//import org.openscience.cdk.inchi.InChIGenerator;
+//import org.openscience.cdk.inchi.InChIGeneratorFactory;
 import org.openscience.cdk.inchi.InChIGenerator;
 import org.openscience.cdk.inchi.InChIGeneratorFactory;
 import org.openscience.cdk.interfaces.IAtom;
