@@ -31,7 +31,7 @@ import utils.Validator;
 public class BioTransformerAPI implements BioTransformerAPIs {
 	private static Logger logger = null;
 	static {
-			logger = LogManager.getLogger();
+			logger = LogManager.getLogger(BioTransformerAPI.class);
 		}
 		/**
 		 * This function implements the BioTransformerAPIs interface. It returns an IAtomcontainerSet with enzymes tags that signify
